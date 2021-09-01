@@ -1,0 +1,9 @@
+C:\Users\kobik\Desktop\connect-four\connect_four\bin\Debug\connect_four.exe.config
+C:\Users\kobik\Desktop\connect-four\connect_four\bin\Debug\connect_four.exe
+C:\Users\kobik\Desktop\connect-four\connect_four\bin\Debug\connect_four.pdb
+C:\Users\kobik\Desktop\connect-four\connect_four\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\kobik\Desktop\connect-four\connect_four\obj\Debug\C21_Ex02.csproj.AssemblyReference.cache
+C:\Users\kobik\Desktop\connect-four\connect_four\obj\Debug\C21_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\kobik\Desktop\connect-four\connect_four\obj\Debug\C21_Ex02.csproj.CopyComplete
+C:\Users\kobik\Desktop\connect-four\connect_four\obj\Debug\connect_four.exe
+C:\Users\kobik\Desktop\connect-four\connect_four\obj\Debug\connect_four.pdb

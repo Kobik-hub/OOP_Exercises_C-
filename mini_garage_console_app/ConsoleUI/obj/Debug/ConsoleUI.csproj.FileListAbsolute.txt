@@ -1,0 +1,9 @@
+C:\Users\kobik\Desktop\C21_Ex03 KobiKaradi 205657919 DanielMalasa 203078993\mini-garage\Ex03.ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\kobik\Desktop\C21_Ex03 KobiKaradi 205657919 DanielMalasa 203078993\mini-garage\Ex03.ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\kobik\Desktop\C21_Ex03 KobiKaradi 205657919 DanielMalasa 203078993\mini-garage\Ex03.ConsoleUI\bin\Debug\GarageLogic.dll
+C:\Users\kobik\Desktop\C21_Ex03 KobiKaradi 205657919 DanielMalasa 203078993\mini-garage\Ex03.ConsoleUI\bin\Debug\GarageLogic.pdb
+C:\Users\kobik\Desktop\C21_Ex03 KobiKaradi 205657919 DanielMalasa 203078993\mini-garage\Ex03.ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\kobik\Desktop\C21_Ex03 KobiKaradi 205657919 DanielMalasa 203078993\mini-garage\Ex03.ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\kobik\Desktop\C21_Ex03 KobiKaradi 205657919 DanielMalasa 203078993\mini-garage\Ex03.ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\kobik\Desktop\C21_Ex03 KobiKaradi 205657919 DanielMalasa 203078993\mini-garage\Ex03.ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\kobik\Desktop\C21_Ex03 KobiKaradi 205657919 DanielMalasa 203078993\mini-garage\Ex03.ConsoleUI\obj\Debug\ConsoleUI.pdb

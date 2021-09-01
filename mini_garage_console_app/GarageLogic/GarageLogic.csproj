@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0B117882-1ED6-4D70-804F-F93A4CD61922}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>GarageLogic</RootNamespace>
+    <AssemblyName>GarageLogic</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Vehicles\Car.cs" />
+    <Compile Include="GarageManger.cs" />
+    <Compile Include="CustomerCarDetails.cs" />
+    <Compile Include="eNums\eCarColor.cs" />
+    <Compile Include="eNums\eCarNumOfDoors.cs" />
+    <Compile Include="eNums\eFuleType.cs" />
+    <Compile Include="Vehicles\ElectricCar.cs" />
+    <Compile Include="Engines\ElectricEngine.cs" />
+    <Compile Include="Vehicles\ElectricMotorCycle.cs" />
+    <Compile Include="eNums\eLicenseType.cs" />
+    <Compile Include="eNums\eVehicleStatus.cs" />
+    <Compile Include="Vehicles\GasolineCar.cs" />
+    <Compile Include="Engines\GasolineEngine.cs" />
+    <Compile Include="Vehicles\GasolineMotorCycle.cs" />
+    <Compile Include="Vehicles\Motorcycle.cs" />
+    <Compile Include="ObjectModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vehicles\Truck.cs" />
+    <Compile Include="CustomExceptions\ValueOutOfRangeException.cs" />
+    <Compile Include="Vehicles\Vehicle.cs" />
+    <Compile Include="Wheel.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
