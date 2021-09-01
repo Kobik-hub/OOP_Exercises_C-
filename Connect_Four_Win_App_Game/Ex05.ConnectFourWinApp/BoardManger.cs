@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-namespace Ex05.ConnectFourWinApp
+namespace ConnectFourWinApp
 {
     public enum eGameState
     {

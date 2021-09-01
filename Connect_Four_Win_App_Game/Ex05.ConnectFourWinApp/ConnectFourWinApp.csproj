@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{47294811-69F7-4E43-957A-4B2939996081}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Ex05.ConnectFourWinApp</RootNamespace>
-    <AssemblyName>Ex05.ConnectFourWinApp</AssemblyName>
+    <RootNamespace>ConnectFourWinApp</RootNamespace>
+    <AssemblyName>ConnectFourWinApp</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
